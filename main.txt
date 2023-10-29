@@ -1,3 +1,4 @@
 add feature1
 add feature2
 bug fix1
+add feature3
